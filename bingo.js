@@ -22,3 +22,9 @@ const displayBingoBoard = function(){
         boardContainer.appendChild(newCell)
     }
 }
+
+const randomNum = function(){
+   let random = Math.floor(Math.random() * 76)
+
+   return random
+}

@@ -19,6 +19,7 @@ body{
     width: 60%;
     padding: 10px 0px 10px 10px;
     margin-left: 15em;
+    
 
 }
 
@@ -36,6 +37,13 @@ body{
     margin: 3.5px;
 }
 
-#button{
-    
+#random-button{
+    border: 5px solid blue;
+    border-radius: 10px;
+    width: auto;
+    color: darkslategray;
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+
 }
